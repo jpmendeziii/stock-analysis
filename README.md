@@ -7,4 +7,8 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 ## Results
 ### Deliverable Requirements and Coding Examples
 
+### Stock Performance and Refactor Time Results
+
+## Summary and Conclusions
+
 
