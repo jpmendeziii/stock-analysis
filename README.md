@@ -10,6 +10,10 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 
 ![Question_2_Code_Snip](Question_2_Code_Snip.png)
 
+2. Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+Three output arrays are created: tickerVolumes, tickerStartingPrices, and tickerEndingPrices. In this VBA project, the tickerVolumes 
+array will be a Long data type while the tickerStartingPrices and tickerEndingPrices arrays will be a Single data type.
+
 ![Question_3_Code_Snip](Question_3_Code_Snip.png)
 
 3. The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
