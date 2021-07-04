@@ -30,9 +30,9 @@ A loop was created that will loop over all the rows in the spreadsheet. Inside t
 
 ### Stock Performance and Refactor Time Results
 The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the original stock analysis in the module as shown below.  As far as stock performance is concerned, it appears that the bull run observed for all stocks except TERP in 2017 came to a screeching halt in 2018.  There is a myriad of factors that explain these outcomes but here a few examples - 
-a. Previous results are not indicators of future results or guarantees of continued growth
-b. Industry beta - these stocks may be in volatile growth or cyclical industries
-c. Overall Market Volatility - sometimes the whole market goes down and there are no escapes to be found
+  a. Previous results are not indicators of future results or guarantees of continued growth
+  b. Industry beta - these stocks may be in volatile growth or cyclical industries
+  c. Overall Market Volatility - sometimes the whole market goes down and there are no escapes to be found
 As far as the VBA code is concerned, there appear to be minimal efficencies gained in regards to the time stamps as noted in the reults below.  There a few possible reasons for this outcome and they are discussed in the next section.
 
 ![2017_Original_VBA_code.png](2017_Original_VBA_code.png)
