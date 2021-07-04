@@ -8,6 +8,10 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 ### Deliverable Requirements and Coding Examples
 ![Question_1_Code_Snip](Question_1_Code_Snip.png)
 
+1. The tickerIndex is set equal to zero before looping over the rows.
+A tickerIndex variable was created and set it equal to zero before iterating over all the rows. 
+The tickerIndex is utilized to access the correct index across the four different arrays on VBA Code.
+
 ![Question_2_Code_Snip](Question_2_Code_Snip.png)
 
 2. Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
