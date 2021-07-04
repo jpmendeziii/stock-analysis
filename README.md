@@ -19,7 +19,7 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 ![2017_REFACTORED_VBA_Code.png](2017_REFACTORED_VBA_Code.png)
 
 ![2018_Original_VBA_Code.png](2018_Original_VBA_Code.png)
-![2018_Original_VBA_Code.png](2018_Original_VBA_Code.png)
+![2018_REFACTORED_VBA_Code.png](2018_REFACTORED_VBA_Code.png)
 
 
 
