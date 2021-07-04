@@ -15,7 +15,7 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 ![Question_4_Code_Snip](Question_4_Code_Snip.png)
 
 ### Stock Performance and Refactor Time Results
-![2017_Original_VBA_code](2017_Original_VBA_code)
+![2017_Original_VBA_code.png](2017_Original_VBA_code.png)
 ![2017_REFACTORED_VBA_Code.png](2017_REFACTORED_VBA_Code.png)
 
 ![2018_Original_VBA_Code.png](2018_Original_VBA_Code.png)
