@@ -6,6 +6,13 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 
 ## Results
 ### Deliverable Requirements and Coding Examples
+![Question_1_Code_Snip](Question_1_Code_Snip.png)
+
+![Question_2_Code_Snip](Question_2_Code_Snip.png)
+
+![Question_3_Code_Snip](Question_3_Code_Snip.png)
+
+![Question_4_Code_Snip](Question_4_Code_Snip.png)
 
 ### Stock Performance and Refactor Time Results
 
