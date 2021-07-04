@@ -12,6 +12,9 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 
 ![Question_3_Code_Snip](Question_3_Code_Snip.png)
 
+3. The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
+A loop was created to initialize the tickerVolumes to zero.  If the next row’s ticker doesn’t match, increase the tickerIndex.
+
 ![Question_4_Code_Snip](Question_4_Code_Snip.png)
 
 4. The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
