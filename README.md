@@ -25,4 +25,5 @@ The purpose of this project and subsequent analysis is to edit, refactor a stock
 
 ## Summary and Conclusions
 
+Refactoring helps code understanding.  Refactoring encourages each developer to think about and understand design decisions, in the context of collective ownership / collective code ownership.  After refactoring, the code is fresher, easier to understand or read, less complex and easier to maintain. Disadvantages of Code Refactoring: Time Consuming: You may have no idea how much time it may take to complete the process. It may also land you into a situation where you have no idea where to go.  
 
