@@ -29,9 +29,9 @@ A loop was created to initialize the tickerVolumes to zero.  If the next row’s
 A loop was created that will loop over all the rows in the spreadsheet. Inside the loop, a script was created that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
 
 ### Stock Performance and Refactor Time Results
+The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the original stock analysis in the module.  
 ![2017_Original_VBA_code.png](2017_Original_VBA_code.png)
 ![2017_REFACTORED_VBA_Code.png](2017_REFACTORED_VBA_Code.png)
-
 ![2018_Original_VBA_Code.png](2018_Original_VBA_Code.png)
 ![2018_REFACTORED_VBA_Code.png](2018_REFACTORED_VBA_Code.png)
 
